@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "category": {
+    "id": 1,
+    "name": "Cat"
+  },
+  "name": "Kitty",
+  "photoUrls": [
+    "http://mycatphotos.com"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "kittens"
+    }
+  ],
+  "status": "available"
+}

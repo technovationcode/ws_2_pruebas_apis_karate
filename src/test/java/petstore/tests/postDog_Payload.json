@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "category": {
+    "id": 2,
+    "name": "Dog"
+  },
+  "name": "Doggies",
+  "photoUrls": [
+    "http://mycdogphotos.com"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "Doggies"
+    }
+  ],
+  "status": "available"
+}

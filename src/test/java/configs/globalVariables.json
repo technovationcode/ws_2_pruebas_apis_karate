@@ -1,0 +1,8 @@
+{ 
+	"PATH_TRELLO_OPS": 'classpath:trello/operations/', 
+    "SVC_PET": '/v2/pet',
+    "SVC_USER": '/v2/user',
+    "SVC_CARDS": '/1/cards',
+    "APPKEY":"enter your key",
+    "TOKEN":"enter your token"	
+}

@@ -1,0 +1,15 @@
+{      
+       "DEV": {
+             "URL_PetStore": "https://petstore.swagger.io",
+             "URL_Trello": "https://api.trello.com"            	 
+       },
+       
+       "TEST": {
+             "URL_PetStore": "https://petstore.swagger.io",
+             "URL_Trello": "https://api.trello.com"            	             	 
+       },
+       "UAT": {
+			"URL_PetStore": "http://localhost:8089",
+	         "URL_Trello": "https://api.trello.com"            	 				
+		}
+}
